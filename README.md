@@ -26,4 +26,4 @@ https://youtu.be/qtLk2x59Va8
 
 [1.1_Text_Summarization_SpaCy_pytextrank.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1.1_Text_Summarization_SpaCy_pytextrank.ipynb)
 
-[1.2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/%232_Text_Summarization_gensim.ipynb)
+[1.2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1.2_Text_Summarization_gensim.ipynb)
