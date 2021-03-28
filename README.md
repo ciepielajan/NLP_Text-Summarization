@@ -18,8 +18,9 @@ proces destylacji najważniejszych informacji z tekstu źródłowego.
 _________________________________
 
 #1_Text_Summarization_using_spaCy_pytextrank_gensim
-- https://youtu.be/qtLk2x59Va8
+https://youtu.be/qtLk2x59Va8
 - TextRank
 - Page Rank for TextRank
-- [#1_Text_Summarization_spaCy_pytextrank.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/%231_Text_Summarization_using_spaCy_pytextrank_gensim.ipynb)
-- [#2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/%232_Text_Summarization_gensim.ipynb)
+
+[1.1_Text_Summarization_SpaCy_pytextrank.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/%231_Text_Summarization_SpaCy_pytextrank.ipynb)
+[1.2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/%232_Text_Summarization_gensim.ipynb)
