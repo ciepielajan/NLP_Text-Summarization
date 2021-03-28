@@ -32,4 +32,5 @@ https://youtu.be/qtLk2x59Va8
 #2_Text Summarizaton Using Tf Idf
 
 https://youtu.be/LYnyekMKR5g
-[2_0_Text Summarizaton_Tf-Idf.ipynb]()
+
+[2_0_Text Summarizaton_Tf-Idf.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/2_0_Text_Summarizaton_Tf_Idf.ipynb)
