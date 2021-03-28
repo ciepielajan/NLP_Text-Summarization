@@ -24,6 +24,6 @@ https://youtu.be/qtLk2x59Va8
 - TextRank
 - Page Rank for TextRank
 
-[1.1_Text_Summarization_SpaCy_pytextrank.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1.1_Text_Summarization_SpaCy_pytextrank.ipynb)
+[1_1_Text_Summarization_SpaCy_pytextrank.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1_1_Text_Summarization_SpaCy_pytextrank.ipynb)
 
-[1.2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1.2_Text_Summarization_gensim.ipynb)
+[1_2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1_2_Text_Summarization_gensim.ipynb)
