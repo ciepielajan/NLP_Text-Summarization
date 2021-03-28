@@ -27,3 +27,9 @@ https://youtu.be/qtLk2x59Va8
 [1_1_Text_Summarization_SpaCy_pytextrank.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1_1_Text_Summarization_SpaCy_pytextrank.ipynb)
 
 [1_2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1_2_Text_Summarization_gensim.ipynb)
+
+
+#2_Text Summarizaton Using Tf Idf
+
+https://youtu.be/LYnyekMKR5g
+[2_0_Text Summarizaton_Tf-Idf.ipynb]()
