@@ -44,7 +44,7 @@ Result:
 [2_1_Text Summarizaton_Tf-Idf_only_noun_verb.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/2_1_Text%20Summarizaton_Tf-Idf_only_noun_verb.ipynb)
 
 Result:
->
+>It is seen as a part of artificial intelligence. is replaced with the question "Can machines do what we (as thinking entities) can do? A core objective of a learner is to generalize from its experience. Instead, probabilistic bounds on the performance are quite common. The bias–variance decomposition is one way to quantify generalization error. There are two kinds of time complexity results. It is a learning with no external rewards and no external teacher advice. The system is driven by the interaction between cognition and emotion. There is neither a separate reinforcement input nor an advice input from the environment. The method is strongly NP-hard and difficult to solve approximately. The weight increases or decreases the strength of the signal at a connection. Typically, artificial neurons are aggregated into layers. In decision analysis, a decision tree can be used to visually and explicitly represent decisions and decision making. These decisions rely on objectivity and logical reasoning.
 
 ### 3_Text Summarizaton_Word_Frequency
 [3_0_Text_Summarizaton_Word_Frequency.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/3_0_Text_Summarizaton_Word_Frequency.ipynb)
