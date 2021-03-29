@@ -42,7 +42,7 @@ Result:
 
 |   id |   ilosc znakow |   ilosc slow |   ilosc zdan |
 |-----:|---------------:|-------------:|-------------:|
-|  2_1 |            950 |          146 |           13 |
+|  2_0 |            950 |          146 |           13 |
 
 
 ### 2_1_Text Summarizaton Using Tf Idf but calculate only for noun and verb 
@@ -62,7 +62,9 @@ Result:
 Result:
 > In the early days of AI as an academic discipline, some researchers were interested in having machines learn from data. Some statisticians have adopted methods from machine learning, leading to a combined field that they call statistical learning. If the complexity of the model is increased in response, then the training error decreases. The data is known as training data, and consists of a set of training examples. The algorithms, therefore, learn from test data that has not been labeled, classified or categorized. In machine learning, the environment is typically represented as a Markov decision process (MDP). In supervised feature learning, features are learned using labeled input data. It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. In machine learning, genetic algorithms were used in the 1980s and 1990s. Usually, machine learning models require a lot of data in order for them to perform well.
 
-
+|   id |   ilosc znakow |   ilosc slow |   ilosc zdan |
+|-----:|---------------:|-------------:|-------------:|
+|  3_0 |            966 |          153 |           10 |
 
 
 
