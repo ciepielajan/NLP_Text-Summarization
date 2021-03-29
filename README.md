@@ -17,6 +17,11 @@ proces destylacji najważniejszych informacji z tekstu źródłowego.
 
 _________________________________
 
+### 0 Summary using seq2seq-model
+
+https://www.kaggle.com/sandeepbhogaraju/text-summarization-with-seq2seq-model
+
+
 ### 1_Text_Summarization_using_spaCy_pytextrank_gensim
 
 https://youtu.be/qtLk2x59Va8
