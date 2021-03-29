@@ -38,6 +38,7 @@ zawiera też oraz Streamlit App https://towardsdatascience.com/text-summarizatio
 ### 2_1Text Summarizaton Using Tf Idf but calculate only for noun and verb 
 
 ### 3_Text Summarizaton_Word_Frequency
+[3_0_Text_Summarizaton_Word_Frequency.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/3_0_Text_Summarizaton_Word_Frequency.ipynb)
 
 
 
