@@ -28,6 +28,8 @@ https://youtu.be/qtLk2x59Va8
 
 [1_2_Text_Summarization_gensim.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/1_2_Text_Summarization_gensim.ipynb)
 
+Result:
+>
 
 ### 2_Text Summarizaton Using Tf Idf
 
@@ -35,10 +37,20 @@ zawiera też oraz Streamlit App https://towardsdatascience.com/text-summarizatio
 
 [2_0_Text Summarizaton_Tf-Idf.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/2_0_Text_Summarizaton_Tf_Idf.ipynb)
 
+Result:
+>It is seen as a part of artificial intelligence. A core objective of a learner is to generalize from its experience. The bias–variance decomposition is one way to quantify generalization error. There are two kinds of time complexity results. Other methods are based on estimated density and graph connectivity. It is a learning with no external rewards and no external teacher advice. The system is driven by the interaction between cognition and emotion. There is neither a separate reinforcement input nor an advice input from the environment. Classic examples include principal components analysis and cluster analysis. The method is strongly NP-hard and difficult to solve approximately. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. The weight increases or decreases the strength of the signal at a connection. These decisions rely on objectivity and logical reasoning.
+
 ### 2_1Text Summarizaton Using Tf Idf but calculate only for noun and verb 
+
+Result:
+>
 
 ### 3_Text Summarizaton_Word_Frequency
 [3_0_Text_Summarizaton_Word_Frequency.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/3_0_Text_Summarizaton_Word_Frequency.ipynb)
+
+Result:
+> In the early days of AI as an academic discipline, some researchers were interested in having machines learn from data. Some statisticians have adopted methods from machine learning, leading to a combined field that they call statistical learning. If the complexity of the model is increased in response, then the training error decreases. The data is known as training data, and consists of a set of training examples. The algorithms, therefore, learn from test data that has not been labeled, classified or categorized. In machine learning, the environment is typically represented as a Markov decision process (MDP). In supervised feature learning, features are learned using labeled input data. It is one of the predictive modeling approaches used in statistics, data mining, and machine learning. In machine learning, genetic algorithms were used in the 1980s and 1990s. Usually, machine learning models require a lot of data in order for them to perform well.
+
 
 
 
