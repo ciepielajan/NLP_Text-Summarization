@@ -40,6 +40,11 @@ zawiera też oraz Streamlit App https://towardsdatascience.com/text-summarizatio
 Result:
 >It is seen as a part of artificial intelligence. A core objective of a learner is to generalize from its experience. The bias–variance decomposition is one way to quantify generalization error. There are two kinds of time complexity results. Other methods are based on estimated density and graph connectivity. It is a learning with no external rewards and no external teacher advice. The system is driven by the interaction between cognition and emotion. There is neither a separate reinforcement input nor an advice input from the environment. Classic examples include principal components analysis and cluster analysis. The method is strongly NP-hard and difficult to solve approximately. An artificial neuron that receives a signal can process it and then signal additional artificial neurons connected to it. The weight increases or decreases the strength of the signal at a connection. These decisions rely on objectivity and logical reasoning.
 
+|   id |   ilosc znakow |   ilosc slow |   ilosc zdan |
+|-----:|---------------:|-------------:|-------------:|
+|  2_1 |            950 |          146 |           13 |
+
+
 ### 2_1_Text Summarizaton Using Tf Idf but calculate only for noun and verb 
 [2_1_Text Summarizaton_Tf-Idf_only_noun_verb.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/2_1_Text%20Summarizaton_Tf-Idf_only_noun_verb.ipynb)
 
