@@ -34,3 +34,26 @@ https://youtu.be/qtLk2x59Va8
 https://youtu.be/LYnyekMKR5g
 
 [2_0_Text Summarizaton_Tf-Idf.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/2_0_Text_Summarizaton_Tf_Idf.ipynb)
+
+#3_Text Summarizaton_Word_Frequency
+
+zawiera też Tf-IDF oraz Streamlit App https://towardsdatascience.com/text-summarization-using-tf-idf-e64a0644ace3  
+
+Można porównać z modelem nr2(wcześniejszym)
+
+__Term Frequency__
+__Term frequency (TF)__ is how often a word appears in a document, divided by how many words there are.
+
+TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document)
+
+__Inverse document frequency__
+Term frequency is how common a word is, inverse document frequency (IDF) is how unique or rare a word is.
+
+IDF(t) = log_e(Total number of documents / Number of documents with term t in it)
+
+__Example,__ Consider a document containing 100 words wherein the word apple appears 5 times. The term frequency (i.e., TF) for apple is then (5 / 100) = 0.05.
+
+Now, assume we have 10 million documents and the word apple appears in one thousand of these. Then, the inverse document frequency (i.e., IDF) is calculated as log(10,000,000 / 1,000) = 4.
+Thus, the TF-IDF weight is the product of these quantities: 0.05 * 4 = 0.20.
+
+
