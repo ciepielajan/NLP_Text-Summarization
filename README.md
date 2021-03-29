@@ -72,5 +72,11 @@ Result:
 |  3_0 |            966 |          153 |           10 |
 
 
+### 4_0_Text_Summarizaton_Rank_Sentences.ipynb
+[4_0_Text_Summarizaton_Rank_Sentences.ipynb](https://github.com/ciepielajan/0-przyklad/blob/master/4_0_Text_Summarizaton_Rank_Sentences.ipynb)
+
+nie do końca rozumiem działanie
+
+
 
 
