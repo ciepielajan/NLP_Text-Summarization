@@ -61,6 +61,14 @@ Result:
 |  2_1 |           1011 |          157 |           14 |
 
 
+### 2_2_Text Summarizaton Using Tf Idf with 1-gram and 2-gram
+
+
+
+Result:
+
+
+
 ### 3_Text Summarizaton_Word_Frequency
 [3_0_Text_Summarizaton_Word_Frequency.ipynb](https://github.com/ciepielajan/NLP_Text-Summarization/blob/main/3_0_Text_Summarizaton_Word_Frequency.ipynb)
 
